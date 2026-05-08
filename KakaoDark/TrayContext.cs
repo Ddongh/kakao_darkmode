@@ -219,14 +219,19 @@ public sealed class TrayContext : ApplicationContext
         foreach (var w in windows)
         {
             seen.Add(w.Hwnd);
+            bool isNew = false;
             if (!_hosts.TryGetValue(w.Hwnd, out var host))
             {
                 host = new MagnifierHost();
                 _ = host.Handle;
                 host.ApplyPreset(_preset);
                 _hosts[w.Hwnd] = host;
+                isNew = true;
             }
             host.SyncTo(w.Hwnd, w.Rect);
+            // 새로 만든 host (예: 작업표시줄에서 카카오톡 처음 띄울 때 화면 밖→안으로 들어옴)
+            // 의 첫 1초 burst refresh로 매그니파이어 캡처가 즉시 안정화되게.
+            if (isNew) host.TriggerRefresh(1000);
         }
 
         if (_hosts.Count > seen.Count)

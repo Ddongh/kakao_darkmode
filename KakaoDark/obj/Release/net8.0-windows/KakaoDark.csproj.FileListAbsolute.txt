@@ -12,3 +12,4 @@ C:\Users\PC\project\kakao_darkmode\KakaoDark\obj\Release\net8.0-windows\refint\K
 C:\Users\PC\project\kakao_darkmode\KakaoDark\obj\Release\net8.0-windows\KakaoDark.pdb
 C:\Users\PC\project\kakao_darkmode\KakaoDark\obj\Release\net8.0-windows\KakaoDark.genruntimeconfig.cache
 C:\Users\PC\project\kakao_darkmode\KakaoDark\obj\Release\net8.0-windows\ref\KakaoDark.dll
+C:\Users\PC\project\kakao_darkmode\KakaoDark\obj\Release\net8.0-windows\KakaoDark.sourcelink.json

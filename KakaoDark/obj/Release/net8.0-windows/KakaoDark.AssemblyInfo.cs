@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KakaoDark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21611bd14cc06f1786085e9c8ffc16dedea1dc2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KakaoDark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KakaoDark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
