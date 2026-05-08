@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>KakaoDarkInject</RootNamespace>
+    <AssemblyName>KakaoDarkInject</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <!-- 카카오톡이 32-bit이므로 인젝터도 32-bit로 — 같은 비트수에서 CreateRemoteThread 가장 안전. -->
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+</Project>

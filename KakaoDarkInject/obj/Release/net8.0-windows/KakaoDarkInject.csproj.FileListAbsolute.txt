@@ -1,0 +1,14 @@
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\bin\Release\net8.0-windows\KakaoDarkInject.exe
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\bin\Release\net8.0-windows\KakaoDarkInject.deps.json
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\bin\Release\net8.0-windows\KakaoDarkInject.runtimeconfig.json
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\bin\Release\net8.0-windows\KakaoDarkInject.dll
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\bin\Release\net8.0-windows\KakaoDarkInject.pdb
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.AssemblyInfoInputs.cache
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.AssemblyInfo.cs
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.csproj.CoreCompileInputs.cache
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.dll
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\refint\KakaoDarkInject.dll
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.pdb
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\KakaoDarkInject.genruntimeconfig.cache
+C:\Users\PC\project\kakao_darkmode\KakaoDarkInject\obj\Release\net8.0-windows\ref\KakaoDarkInject.dll
